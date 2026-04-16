@@ -68,5 +68,11 @@ Threshold used in this project:
 ## ▶️ How to Run the Project
 
 ### Step 1: Install Required Libraries
-```bash
+
 pip install opencv-python mediapipe numpy pygame
+
+**Step 2: Run the Program**
+python detection.py
+
+**Step 3: Stop the Program**
+Press ESC key to exit.
